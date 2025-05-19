@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Positive Impact – Elise</title>
+  <style>
+    body {
+      margin: 0;
+      font-family: "Segoe UI", sans-serif;
+      background-color: #f9f7f5;
+      color: #3a2e28;
+      line-height: 1.6;
+    }
+
+    header {
+      text-align: center;
+      padding: 2rem 1rem 1rem;
+    }
+
+    header img.logo {
+      max-width: 200px;
+      height: auto;
+    }
+
+    .container {
+      max-width: 800px;
+      margin: auto;
+      padding: 1rem;
+      text-align: center;
+    }
+
+    .profile-pic {
+      border-radius: 10px;
+      max-width: 220px;
+      width: 100%;
+      height: auto;
+      margin-bottom: 1rem;
+      box-shadow: 0 4px 10px rgba(0,0,0,0.1);
+    }
+
+    h1 {
+      font-size: 2rem;
+      margin-bottom: 0.5rem;
+    }
+
+    h2 {
+      font-size: 1.3rem;
+      font-weight: normal;
+      color: #7e6a5f;
+    }
+
+    .section {
+      background-color: #fff;
+      border-radius: 10px;
+      padding: 2rem;
+      margin: 2rem 0;
+      box-shadow: 0 2px 10px rgba(0,0,0,0.05);
+    }
+
+    .contact {
+      margin-top: 1.5rem;
+      font-size: 1.1rem;
+    }
+
+    .contact a {
+      color: #3a2e28;
+      text-decoration: none;
+      display: block;
+      margin-top: 0.5rem;
+    }
+
+    @media screen and (max-width: 600px) {
+      .container {
+        padding: 1rem;
+      }
+    }
+  </style>
+</head>
+<body>
+
+  <header>
+    <img src="LOGO POSITIVE IMPACT.png" alt="Logo Positive Impact" class="logo" />
+  </header>
+
+  <div class="container">
+    <img src="photo pro ok 2.jpg" alt="Photo Elise" class="profile-pic" />
+    <h1>Elise – Account Executive B2B / B2C</h1>
+    <h2>Setter & Closer | Positive Impact</h2>
+
+    <div class="section">
+      <p>
+        Forte de 4 ans d’expérience en logistique industrielle, j’ai développé une rigueur et une autonomie solides, ainsi qu’une parfaite maîtrise de la gestion des flux entrants et sortants.
+      </p>
+      <p>
+        Aujourd’hui, je me réoriente vers ce qui me passionne : la vente, la relation client et l’accompagnement humain. Spécialisée en setting et closing B2B/B2C, je me forme en continu sur les stratégies de conversion à fort impact.
+      </p>
+      <p>
+        Depuis octobre 2024, j’ai lancé mon activité freelance sous le nom de <strong>Positive Impact</strong>, pour accompagner les infopreneurs, coachs et entrepreneurs dans leurs processus de vente.
+      </p>
+      <p>
+        Mon approche ? Allier performance commerciale, stratégie et écoute pour transformer chaque appel en opportunité concrète.
+      </p>
+    </div>
+
+    <div class="contact">
+      <p><strong>📧 Email :</strong> <a href="mailto:elise.positive.impact@gmail.com">elise.positive.impact@gmail.com</a></p>
+      <p><strong>📞 Téléphone :</strong> <a href="tel:+33679960987">06 79 96 09 87</a></p>
+    </div>
+  </div>
+
+</body>
+</html>
